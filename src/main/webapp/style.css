@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	background-color: grey;
+}
+
+
+#loginFormId {
+	background-color: beige;
+	padding: 10px;
+	height: 140px;
+	width: 300px;
+	margin: 100px  auto 0px auto;
+}
+#registrationFormId {
+	background-color: beige;
+	padding: 10px;
+	height: 100px;
+	width: 300px;
+	margin: 100px  auto 0px auto;
+}
